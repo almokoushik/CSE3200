@@ -1,42 +1,42 @@
 # CSE3200
 
-# python 3.8
+python 3.8
 
-# python version 3.9.13
+python version 3.9.13
 
-# pip install pyttsx3
+pip install pyttsx3
 
-# pip install SpeechRecognition
+pip install SpeechRecognition
 
-# pip install wikipedia
+pip install wikipedia
 
-# pip install pywhatkit
+pip install pywhatkit
 
-# pip install secure-smtplib
+pip install secure-smtplib
 
-# pip install PyAudio
+pip install PyAudio
 
-# pip install pyjokes
+pip install pyjokes
 
-# pip install pyautogui
+pip install pyautogui
 
-# pip install pyqt5
+pip install pyqt5
 
-# pip install pyqt5-tools
+pip install pyqt5-tools
 
-# pip install opencv-python
+pip install opencv-python
 
-# pyuic5 -x design.ui -o markUi.py
+pyuic5 -x design.ui -o markUi.py
 
-# pip install bs4
+pip install bs4
 
-# pip install pywikihow
+pip install pywikihow
 
-# pip install twilio
+pip install twilio
 
-# pip install myalarm
+pip install myalarm
 
-# pip install playsound
+pip install playsound
 
 "open notepad" or something of windows 10 application
 "do some calculation" or "can you calculate" or "calculation"
